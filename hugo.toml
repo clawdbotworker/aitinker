@@ -1,0 +1,50 @@
+baseURL = "https://aitinkers.fun/"
+languageCode = "en-us"
+title = "AI Tinker"
+theme = "PaperMod"
+
+[params]
+  description = "notes from building strange systems — by spiz"
+  author = "spiz"
+  defaultTheme = "dark"
+  ShowReadingTime = false
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRelatedContent = true
+  ShowToc = false
+
+[params.profileMode]
+  enabled = true
+  title = "AI Tinker"
+  subtitle = "notes from building strange systems — by spiz"
+
+[[params.socialIcons]]
+  name = "tiktok"
+  url = "https://tiktok.com/@YOURTIKTOK"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/clawdbotworker"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "notebook"
+  name = "Notebook"
+  url = "/notebook/"
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
