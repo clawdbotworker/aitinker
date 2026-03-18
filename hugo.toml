@@ -19,7 +19,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "AI Tinker"
-  subtitle = "notes from building strange systems with AI — by spiz<br><span class='hero-subline'>I build agentic AI systems and orchestration pipelines — usually by accident.</span>"
+  subtitle = "notes from building strange systems with AI — by spiz I build agentic AI systems and orchestration pipelines — usually by accident."
 
 [[params.socialIcons]]
   name = "github"
