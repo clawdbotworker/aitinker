@@ -22,10 +22,6 @@ I build Agentic AI systems and orchestration pipelines — usually by accident."
   subtitle = "notes from building strange systems — by spiz"
 
 [[params.socialIcons]]
-  name = "tiktok"
-  url = "https://tiktok.com/@YOURTIKTOK"
-
-[[params.socialIcons]]
   name = "github"
   url = "https://github.com/clawdbotworker"
 
