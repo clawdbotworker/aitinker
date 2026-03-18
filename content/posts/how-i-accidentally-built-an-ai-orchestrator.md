@@ -5,11 +5,6 @@ draft: false
 tags: ["ai", "agents", "building", "origin-story"]
 description: "I didn't set out to build a system. I set out to stop repeating myself."
 ---
-How I Accidentally Built an AI Orchestrator
-By spiz · AI Tinker
-
-I didn't set out to build a system. I set out to stop repeating myself.
-
 But i knew i had to get into the Agentic AI game before the beginning of this boom closed and it normalized with mainstream culture. Openclaw had dropped a week or two ago and my anxiety to learn this was THROUGH THE ROOF! every hour that i didn't dig in i felt exponentially more irrelevant and losing a lot of sleep. It was in the hospital, while i waited for my Moms surgery for cancer to finish, that i finally opened my laptop and started learning. I stayed in the room with her overnight - we both knocked out about 6pm. The next day, i jumped back in by her bed and became instantly obsessed with figuring things out while amazing Nurses and Drs came to check on her. i started with OpenClaw, agonized over where to host it - definitely not on my laptop! Finding the best skills, figuring out which brain to give it, how to make it autonomous in my contained environment... etc. At this point i only had a paid subscription to GPT and used all the other tools for free (Claude, Gemini, Perplexity, Kimi, DeepSeek...etc) i've always had a million ideas and said if i knew how to code, i'd be dangerous... and the time has come. 
 
 Before i realized it, i had installed .pixel-agents, .openclaw, .moltbook, .codex, .copilot, .antigravity and a whole bunch more and each one required some level of setup. you don't just install it and it does these amazing things that you hear about. Every time I opened a new session with an AI agent, it was the same thing. Here's are these skills, here is some knowledge - aka, here is your PHD in xyz, as in, subjects that takes us years to learn and master, all in a dump of resources that you can consume and run with almost immediately. Like Trinity in the Matrix instantly learning how to fly the B-21-2 helicopter. i didn't want to re-explain here's how the pipeline works. Here's what we decided last time. Here's what broke. Here's what's next. Every. Single. Time.
