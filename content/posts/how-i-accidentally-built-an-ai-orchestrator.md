@@ -28,7 +28,7 @@ Yes, add a validation layer so I stop manually checking if the output is garbage
 
 And then one day I looked at what I had and realized — oh.
 
-![AI orchestrator architecture](/images/diagrams/ai-orchestrator.png)
+![AI orchestrator architecture](/images/diagrams/ai-orchestrator-diagram.png)
 
 What i had built looked something like this.
 
