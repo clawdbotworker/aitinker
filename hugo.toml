@@ -20,7 +20,7 @@ theme = "PaperMod"
   enabled = true
   title = "AI Tinker"
   subtitle = """
-notes from building strange systems with AI — by spiz
+notes from building strange systems with AI — by spiz<br>
 I build agentic AI systems and orchestration pipelines — usually by accident.
 """
 
