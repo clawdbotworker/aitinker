@@ -28,6 +28,21 @@ Yes, add a validation layer so I stop manually checking if the output is garbage
 
 And then one day I looked at what I had and realized — oh.
 
+             Orchestrator
+                 │
+        ┌────────┼────────┐
+        │        │        │
+   Research   Builder   Validator
+     Agent      Agent      Agent
+        │        │        │
+        └──── Shared Memory ────┘
+                 │
+              Ledger
+                 │
+              Publish
+
+What i had built looked something like this.
+
 This isn't a collection of fixes. This is an architecture. There's a state machine. There's a job ledger. There's model routing. There's cost controls. There's memory layers. There's an orchestrator that isn't an AI — it's just software, doing what software does best: saying no to things that shouldn't happen.
 
 I accidentally built the thing I didn't know I needed.

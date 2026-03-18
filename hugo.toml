@@ -4,22 +4,25 @@ title = "AI Tinker"
 theme = "PaperMod"
 
 [params]
-  description = "notes from building strange systems with AI — by spiz
-I build Agentic AI systems and orchestration pipelines — usually by accident."
+  description = "notes from building strange systems with AI — by spiz"
   author = "spiz"
   defaultTheme = "dark"
   ShowReadingTime = false
   ShowShareButtons = true
   ShowPostNavLinks = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowRelatedContent = true
   ShowToc = false
+  mainSections = ["posts","notebook"]
 
 [params.profileMode]
   enabled = true
   title = "AI Tinker"
-  subtitle = "notes from building strange systems — by spiz"
+  subtitle = """
+notes from building strange systems with AI — by spiz
+I build agentic AI systems and orchestration pipelines — usually by accident.
+"""
 
 [[params.socialIcons]]
   name = "github"
