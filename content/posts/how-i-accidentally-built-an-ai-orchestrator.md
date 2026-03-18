@@ -28,18 +28,7 @@ Yes, add a validation layer so I stop manually checking if the output is garbage
 
 And then one day I looked at what I had and realized — oh.
 
-             Orchestrator
-                 │
-        ┌────────┼────────┐
-        │        │        │
-   Research   Builder   Validator
-     Agent      Agent      Agent
-        │        │        │
-        └──── Shared Memory ────┘
-                 │
-              Ledger
-                 │
-              Publish
+![AI orchestrator architecture](/images/diagrams/ai-orchestrator.png)
 
 What i had built looked something like this.
 
