@@ -4,8 +4,8 @@ title = "AI Tinker"
 theme = "PaperMod"
 
 [params]
-  description = "notes from building strange systems — by spiz
-I build AI agent systems and orchestration pipelines — usually by accident."
+  description = "notes from building strange systems with AI — by spiz
+I build Agentic AI systems and orchestration pipelines — usually by accident."
   author = "spiz"
   defaultTheme = "dark"
   ShowReadingTime = false
