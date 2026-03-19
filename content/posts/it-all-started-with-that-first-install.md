@@ -91,7 +91,7 @@ and dang... just like that:
   Want me to set up the persistent launchd tunnel on your Mac now so it auto-connects?
 ```
 
-It feels like that point in The Neverending Story when Bastian realizes that the book leaked into the world and is part of his reality... and LOOKING FOR HIS INPUT! BASTIAN, SAY MY NAME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+It feels like that point in The Neverending Story when Bastian realizes that the book leaked into the world and is part of his reality... and LOOKING FOR HIS INPUT! BASTIAN, SAY MY NAME!
 
 ---
 
