@@ -16,7 +16,7 @@ description: "I installed a CLI tool. Weeks later it SSH'd into my server and ra
 
 {{< figure src="/images/clawdjester.jpeg" title="clawdjester" caption="another form it took" width="420" >}}
 
-Somewhere in between here there was kimiclaw, who was my absolute favorite! Full of life, color and zest... but she had to be ... ...
+Somewhere in between here there was kimiclaw, who was my absolute favorite! Full of life, color and zest... but she had to be...
 
 And now there's
 {{< figure src="/images/awsbot.jpeg" title="awsbot" caption="always asking for permission" width="420" >}}
@@ -92,11 +92,3 @@ and dang... just like that:
 ```
 
 It feels like that point in The Neverending Story when Bastian realizes that the book leaked into the world and is part of his reality... and LOOKING FOR HIS INPUT! BASTIAN, SAY MY NAME!
-
----
-
-## Read next
-
-If this is your kind of weird, the next part is here:
-
-- [How I Accidentally Built an AI Orchestrator](/posts/how-i-accidentally-built-an-ai-orchestrator/)
