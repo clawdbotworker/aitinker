@@ -1,11 +1,32 @@
 <style>
 
+/* ================================================================
+   AI Tinker Site Styling
+   ------------------------------------------------
+   IMPORTANT NOTE FOR FUTURE EDITING
+
+   The HOMEPAGE LAYOUT is NOT controlled here.
+
+   This file only handles styling.
+
+   The homepage structure (hero layout, text, cards, etc.)
+   is defined in:
+
+       layouts/index.html
+
+   If the homepage layout needs to change, edit that file.
+
+   extend_head.html = CSS / visual styling
+   layouts/index.html = homepage structure
+
+   ================================================================ */
+
 /* ------------------------------------------------
    Layout width
 ------------------------------------------------ */
 
 :root {
-  --main-width: 920px;
+  --main-width: 1100px;
   --article-width: 780px;
 }
 
@@ -58,7 +79,7 @@
 }
 
 /* ------------------------------------------------
-   Post cards on homepage
+   Post cards on homepage / list pages
 ------------------------------------------------ */
 
 .first-entry,
@@ -84,7 +105,8 @@
 }
 
 /* ------------------------------------------------
-   Hero subtitle formatting
+   Old profile mode subtitle formatting
+   Safe to keep even after disabling profileMode
 ------------------------------------------------ */
 
 .profile .profile_inner > span {
@@ -93,6 +115,139 @@
   margin: 0.75rem auto 0;
   line-height: 1.45;
   text-align: center;
+}
+
+/* ------------------------------------------------
+   Custom homepage hero
+------------------------------------------------ */
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 0.9fr;
+  gap: 2.5rem;
+  align-items: center;
+  padding: 4.75rem 1rem 3.75rem;
+}
+
+.hero-copy {
+  min-width: 0;
+}
+
+.hero-eyebrow {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  opacity: 0.65;
+  margin-bottom: 0.85rem;
+}
+
+.hero-title {
+  font-size: clamp(2.6rem, 5vw, 4.8rem);
+  line-height: 1.02;
+  letter-spacing: -0.045em;
+  max-width: 9ch;
+  margin: 0 0 1rem;
+}
+
+.hero-text {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  max-width: 58ch;
+  opacity: 0.82;
+  margin: 0 0 1.4rem;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem 1rem;
+}
+
+.hero-links a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, border-color 0.2s ease;
+}
+
+.hero-links a:hover {
+  opacity: 1;
+  border-color: currentColor;
+}
+
+.hero-card {
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 18px;
+  padding: 1.15rem 1.2rem;
+  background: rgba(255,255,255,0.03);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.14);
+}
+
+.hero-card-label {
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  opacity: 0.6;
+  margin-bottom: 0.9rem;
+}
+
+.hero-card ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hero-card li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  line-height: 1.45;
+}
+
+.hero-card li:last-child {
+  border-bottom: 0;
+}
+
+/* ------------------------------------------------
+   Hero animation
+------------------------------------------------ */
+
+.hero-copy,
+.hero-card {
+  opacity: 0;
+  transform: translateY(14px);
+  animation: heroFadeUp 0.75s ease forwards;
+}
+
+.hero-card {
+  animation-delay: 0.16s;
+}
+
+@keyframes heroFadeUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ------------------------------------------------
+   Mobile
+------------------------------------------------ */
+
+@media (max-width: 860px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding-top: 3rem;
+    padding-bottom: 2.75rem;
+  }
+
+  .hero-title {
+    max-width: 11ch;
+  }
+
+  .hero-card {
+    margin-top: 0.25rem;
+  }
 }
 
 </style>
