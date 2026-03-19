@@ -1,6 +1,6 @@
 ---
 title: "Claude Code SSH'd Into My Server and Spawned Claude Code There"
-date: 2026-03-18 19:00
+date: 2026-03-18T19:00:00-04:00
 draft: false
 tags: ["ai", "agents", "building", "origin-story"]
 description: "I installed a CLI tool. Months later it SSH'd into my server and ran itself. This is that story."

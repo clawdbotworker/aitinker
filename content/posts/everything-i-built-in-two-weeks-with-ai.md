@@ -1,6 +1,6 @@
 ---
 title: "Everything I Built in 2.5 Weeks With AI"
-date: 2026-03-18 23:00
+date: 2026-03-18T23:00:00-04:00
 draft: false
 tags: ["ai", "agents", "building", "inventory"]
 description: "The full list of what one solo builder shipped in 2.5 weeks with AI tools, a $12 server, and zero computer science background."
