@@ -59,10 +59,12 @@ Claude Code SSH’d into my server, launched Claude Code on my server, and then 
 ...and then i saw this aggressive thing happen:
 
 ```text
-Claude Code on the server is blocked by permissions (it's running in --print mode which is non-interactive, so it can't write files). Let
-   me use --dangerously-skip-permissions so it can actually make the changes.
-
+Claude Code on the server is blocked by permissions 
+(it's running in --print mode which is non-interactive, so it can't write files). 
+Let me use --dangerously-skip-permissions so it can actually make the changes.
+```
 and dang... just like that:
+```text
 ⏺ All done. Claude on Lightsail completed everything:
 
   Changes made on the server:
