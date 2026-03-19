@@ -8,8 +8,9 @@ description: "I installed a CLI tool. Weeks later it SSH'd into my server and ra
 
 `curl -fsSL https://openclaw.ai/install.sh | bash`
 
+{{< rawhtml >}}
 <p style="text-align:center;"><strong>POOF!</strong></p>
-
+{{< /rawhtml >}}
 
 {{< figure src="/images/cwclawd.jpeg" title="cwclawd" caption="one phase of the evolution" width="420" >}}
 
