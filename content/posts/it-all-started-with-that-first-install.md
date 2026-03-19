@@ -51,7 +51,9 @@ Dominate orchestrator
         └── OpenRouter fallback
 ```
 
-Claude Code SSH’d into my server, launched Claude Code on my server, and then told it what to do."Configure the orchestrator to route agents to use my local LLM before routing through openrouter..."
+Claude Code SSH’d into my server, launched Claude Code on my server, and then told it what to do.
+
+"Configure the orchestrator to route agents to use my local LLM before routing through OpenRouter..."
 
 ...and then i saw this aggressive thing happen:
 
