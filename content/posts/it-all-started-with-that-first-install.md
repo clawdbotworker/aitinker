@@ -31,9 +31,11 @@ And that’s when it stopped being a toy.
 It rapidly morphed into this complex system I couldn’t put down.
 Honestly, I still can’t.
 
-Did i tangent during the main build out... yes, that's when i redesigned my ancient blog that i created fully automated while i slept, when i thought zapier was cool. i built 2 clawhub skills in one day... they only took 1-2 hours to build and launch. There's just something about having a ton of ideas and the tools to finally get them all going  — and then walking away knowing they're coming to life all at once. DOUBLE DANG!
+Did i tangent during the main build out... yes, that's when i redesigned my ancient blog — the one I originally built fully automated while I slept back when I thought Zapier was the coolest thing on earth. i built 2 clawhub skills in one day... only took 1-2 hours to research, build and launch. There's something about having a ton of ideas and the tools to finally get them all going  — and then walking away knowing they're coming to life all at once. 
 
-Did i also try to install and run my own LLM... yes, and it's still sitting on my laptop.
+DOUBLE DANG!
+
+Did i also try to install and run my own LLM... yes.
 
 And then something *weird* happened. 👀
 
