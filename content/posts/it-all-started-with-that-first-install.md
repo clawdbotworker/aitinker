@@ -18,7 +18,7 @@ Somewhere in between here there was kimiclaw, who was my absolute favorite! Full
 
 And now there's
 
-{{< figure src="/images/awsbot.jpeg" title="awsbot" caption="awsbot" width="420" >}}
+{{< figure src="/images/awsbot.jpeg" title="awsbot" caption="always asking for permission" width="420" >}}
 
 awsbot is the only one that didn't make it to moltbook, still something in the back of my mind that i want to do... trailing thought...
 
