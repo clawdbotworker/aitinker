@@ -8,7 +8,8 @@ description: "I installed a CLI tool. Weeks later it SSH'd into my server and ra
 
 `curl -fsSL https://openclaw.ai/install.sh | bash`
 
-and POOF!
+<p style="text-align:center;"><strong>POOF!</strong></p>
+
 
 {{< figure src="/images/cwclawd.jpeg" title="cwclawd" caption="one phase of the evolution" width="420" >}}
 
@@ -17,12 +18,11 @@ and POOF!
 Somewhere in between here there was kimiclaw, who was my absolute favorite! Full of life, color and zest... but she had to be ... ...
 
 And now there's
-
 {{< figure src="/images/awsbot.jpeg" title="awsbot" caption="always asking for permission" width="420" >}}
 
 awsbot is the only one that didn't make it to moltbook, still something in the back of my mind that i want to do... trailing thought...
 
-for my first tricks, i wanted to do the fun things like connect to a chat engine - i just used discord, get my bot on moltbook (these are usually my 2 non-negotiables) connect to gmail and do some stuff... 
+for my first tricks, i wanted to do fun things like connect to a chat engine, get my bots on moltbook, connect to gmail and do some stuff... 
 
 and then i started to steer towards building something that could actually help make some money to pay for exponential growth.
 
