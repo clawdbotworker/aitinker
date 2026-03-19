@@ -87,3 +87,11 @@ and dang... just like that:
 ```
 
 It feels like that point in The Neverending Story when Bastian realizes that the book leaked into the world and is part of his reality... and LOOKING FOR HIS INPUT! BASTIAN, SAY MY NAME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+---
+
+## Read next
+
+If this is your kind of weird, the next part is here:
+
+- [How I Accidentally Built an AI Orchestrator](/posts/how-i-accidentally-built-an-ai-orchestrator/)

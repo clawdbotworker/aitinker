@@ -92,3 +92,5 @@ Through all of this, one idea kept coming back:
 **Agents generate ideas. Software controls reality.**
 
 **The model should never control the system. The system must control the model.**
+
+More at aitinkers.fun
