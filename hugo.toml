@@ -2,10 +2,12 @@ baseURL = "https://aitinkers.fun/"
 languageCode = "en-us"
 title = "AI Tinker"
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [params]
   description = "notes from building strange systems with AI — by spiz"
   author = "spiz"
+  keywords = ["AI", "automation", "agents", "machine learning", "tinker", "Claude", "LLM", "building with AI"]
   defaultTheme = "dark"
   ShowReadingTime = false
   ShowShareButtons = true
@@ -15,6 +17,23 @@ theme = "PaperMod"
   ShowRelatedContent = true
   ShowToc = false
   mainSections = ["posts","notebook"]
+  images = ["/images/clawdjester.jpeg"]
+
+  [params.label]
+    text = "AI Tinker"
+
+  [params.homeInfoParams]
+    Title = "AI Tinker"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    keys = ["title", "summary", "content"]
+
+  [params.schema]
+    publisherType = "Person"
+    name = "spiz"
+    siteURL = "https://aitinkers.fun/"
 
 [params.profileMode]
   enabled = false
@@ -43,3 +62,13 @@ theme = "PaperMod"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
