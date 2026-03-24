@@ -42,6 +42,19 @@ That's the whole origin story. No bootcamp. No CS degree. No venture funding. Ju
 
 This is the first post in a series about building AI agent systems from scratch — the real version, not the tutorial version. The version where things break at 2am and you're Googling "OAuth redirect localhost SSH tunnel" in your pajamas because you haven't left the house, seen any friends or even really talked to your Mom sitting in the same room for the past few weeks. It's literally been wake up, have an hour of reading, daily things, jump on and start building, stop, log into work, log out of work, jump back in to building until 2-3am. Wake up at 6am and do it again.... weekends.... O, they are the sweetest spots! i actually let myself sleep in though because a couple hours of sleep every night for a few weeks... um. but from wake up until 2-3am i'm spending the full day building and i thought that stopping to document the journey was going to be impossible because SO MUCH CHANGED EVEN WITHIN ONE HOUR! But, the AI forced me to do this. And, as the system finally started producing, i started flying with ideas and published 2 clawhub skill - in two hours actually. there is so much to write about but.... this is just a start, but where do i even start - i need my own human handoff document... even then...where do i even start... all i can say is that i'm starting to dream again after so many broken dreams.
 
+## This Isn't Just Me
+
+I'm not the only one who stumbled into this. Other builders — different stacks, different backgrounds — are independently hitting the same wall and arriving at the same conclusion.
+
+- A developer [built an orchestration layer to manage multiple Cursor agents](https://dev.to/_e0368f0daab8aa68fd6e1d/i-built-an-orchestration-layer-to-manage-multiple-cursor-agents-3iab) after realizing "the more agents I added, the more coordination cost I created for myself."
+- A solo founder in Portugal is [running 5 products with AI agent departments](https://dev.to/setas/i-run-a-solo-company-with-ai-agent-departments-50nf) — zero employees, 8 agent roles, shared memory between all of them.
+- Someone spent 6 months [building a governance layer for multi-agent coding](https://news.ycombinator.com/item?id=47139978) — append-only audit trails linking agent actions to git commits.
+- Even Anthropic's own team [built a multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system) and watched their agents spawn 50 subagents and get completely lost.
+
+Different tools. Different approaches. Same conclusion:
+
+**The real problem isn't using AI — it's orchestrating it.**
+
 That system eventually became the [AI Execution Engine](https://aiexecutionengine.io) — and yes, you can get the blueprint.
 
 More at aitinkers.fun
