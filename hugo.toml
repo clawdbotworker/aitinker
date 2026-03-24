@@ -43,6 +43,12 @@ enableRobotsTXT = true
   url = "https://github.com/clawdbotworker"
 
 [[menu.main]]
+  identifier = "what-i-built"
+  name = "What I Built"
+  url = "/what-i-built/"
+  weight = 5
+
+[[menu.main]]
   identifier = "posts"
   name = "Posts"
   url = "/posts/"
