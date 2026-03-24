@@ -43,7 +43,7 @@ That's it. That was my contribution to this product cycle.
 
 **819 templates value proposition** — GPT recommended keeping the templates as an included bonus (not a separate product) and delivered 8 copy diffs to promote them from a buried card to a featured value prop. New dedicated section, hero mention, CTA integration. All implemented and reviewed in one loop.
 
-**Free lead magnet** — GPT designed the concept ("The [AI Execution Starter Pack](https://aiexecutionengine.io)"), outlined 7 pages, then drafted all 424 lines of content. Three copy-paste templates, a 10-item execution checklist, and a paid transition page. AG generated the cover image. Claude Code added the opt-in form and modal.
+**Free lead magnet** — GPT designed the concept ("The AI Execution Starter Pack"), outlined 7 pages, then drafted all 424 lines of content. Three copy-paste templates, a 10-item execution checklist, and a paid transition page. AG generated the cover image. Claude Code added the opt-in form and modal.
 
 ## The Part That Blew My Mind
 
@@ -72,14 +72,24 @@ The marginal cost of going from idea to shipped product just collapsed. Not to z
 
 No LangChain. No CrewAI. No AutoGen. Just files in a folder and agents that read them.
 
+## Who This Is Actually For
+
+If you:
+- run a small team drowning in manual processes that eat your week
+- are duct-taping workflows together with Zapier, spreadsheets, and prayer
+- keep hearing "just use AI" but nothing you've tried actually *executes*
+- want agents that do real work — not just answer questions
+
+This is what I'm building toward. Not a chatbot. Not a prompt library. A system where AI agents hand work to each other and ship real output.
+
+If you're dealing with something repetitive that feels broken, I want to see it. Reach out — I'm collecting real use cases.
+
 ## What's Next
 
-Deploy the landing page. Wire Resend to the email capture. Export the Starter Pack PDF. Record 5 TikToks with the hooks GPT wrote.
+The system that built this product is the same system described *in* the product.
 
-But honestly? The product is secondary. The system that built the product — that's the thing. And it's the same system described *in* the product.
-
-The [AI Execution Engine](https://aiexecutionengine.io) was built by the AI Execution Engine.
+The AI Execution Engine was built by the AI Execution Engine.
 
 If that's not recursive proof, I don't know what is.
 
-👉 See the product that four agents built: [aiexecutionengine.io](https://aiexecutionengine.io)
+👉 Get the blueprint: [AI Execution Engine](https://aiexecutionengine.io) ($29)

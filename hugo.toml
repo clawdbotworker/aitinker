@@ -16,7 +16,7 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowRelatedContent = true
   ShowToc = false
-  mainSections = ["posts","notebook"]
+  mainSections = ["posts"]
   images = ["/images/clawdjester.jpeg"]
 
   [params.label]
@@ -59,12 +59,6 @@ enableRobotsTXT = true
   name = "About"
   url = "/about/"
   weight = 20
-
-[[menu.main]]
-  identifier = "notebook"
-  name = "Notebook"
-  url = "/notebook/"
-  weight = 30
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
