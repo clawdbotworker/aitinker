@@ -43,7 +43,7 @@ That's it. That was my contribution to this product cycle.
 
 **819 templates value proposition** — GPT recommended keeping the templates as an included bonus (not a separate product) and delivered 8 copy diffs to promote them from a buried card to a featured value prop. New dedicated section, hero mention, CTA integration. All implemented and reviewed in one loop.
 
-**Free lead magnet** — GPT designed the concept ("The AI Execution Starter Pack"), outlined 7 pages, then drafted all 424 lines of content. Three copy-paste templates, a 10-item execution checklist, and a paid transition page. AG generated the cover image. Claude Code added the opt-in form and modal.
+**Free lead magnet** — GPT designed the concept ("The [AI Execution Starter Pack](https://aiexecutionengine.io)"), outlined 7 pages, then drafted all 424 lines of content. Three copy-paste templates, a 10-item execution checklist, and a paid transition page. AG generated the cover image. Claude Code added the opt-in form and modal.
 
 ## The Part That Blew My Mind
 
@@ -78,6 +78,8 @@ Deploy the landing page. Wire Resend to the email capture. Export the Starter Pa
 
 But honestly? The product is secondary. The system that built the product — that's the thing. And it's the same system described *in* the product.
 
-The AI Execution Engine was built by the AI Execution Engine.
+The [AI Execution Engine](https://aiexecutionengine.io) was built by the AI Execution Engine.
 
 If that's not recursive proof, I don't know what is.
+
+👉 See the product that four agents built: [aiexecutionengine.io](https://aiexecutionengine.io)

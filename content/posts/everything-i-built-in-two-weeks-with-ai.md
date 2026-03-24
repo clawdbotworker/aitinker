@@ -40,7 +40,7 @@ Here's what exists.
 - **6 real fonts, 5 design recipes, 10 product templates** — premium typography built in
 - **26 Gmail labels** across 18 companies with automated routing
 - **Tax spreadsheet** — Google Sheets integration for expense tracking
-- **Gumroad product built** — 2 ZIP bundles (Starter $39 / Premium $97), 755-line landing page, blocked only on payment info
+- **[AI Execution Engine](https://aiexecutionengine.io)** — shipped as a $29 product with 18-page guide, 6 architecture modules, and AI copilot workflow
 - **HashiCorp Vault** — real secret management with scoped tokens, not just env files
 - **36% malicious rating** found on skillsmp.com — AMOS stealer distribution identified and flagged
 - **Installed LLM Qwen 7B on llama-server
@@ -92,5 +92,7 @@ Through all of this, one idea kept coming back:
 **Agents generate ideas. Software controls reality.**
 
 **The model should never control the system. The system must control the model.**
+
+The system that emerged from all of this became the [AI Execution Engine](https://aiexecutionengine.io) — a blueprint for anyone who wants to build their own.
 
 More at aitinkers.fun
