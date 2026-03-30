@@ -1,6 +1,7 @@
 ---
 title: "About"
 draft: false
+date: 2026-03-18T12:00:00-04:00
 ---
 
 i am spiz. Spirit, Power, Intimacy, Zeal — JustPassingBy.

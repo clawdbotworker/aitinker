@@ -1,6 +1,7 @@
 ---
 title: "What Is an AI Orchestrator? How a Solo Builder Created One from Scratch"
 draft: false
+date: 2026-03-22T12:00:00-04:00
 description: "An AI orchestrator is the software control layer that coordinates multiple AI agents. This page explains what it is, how it works, and how a non-engineer built one."
 url: "/what-i-built/"
 keywords: ["AI orchestrator", "AI execution system", "agentic AI", "multi-agent system", "AI orchestration"]
