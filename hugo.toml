@@ -4,6 +4,9 @@ title = "AI Tinker"
 theme = "PaperMod"
 enableRobotsTXT = true
 
+[taxonomies]
+  tag = "tags"
+
 [params]
   description = "notes from building strange systems with AI — by spiz"
   author = "spiz"
